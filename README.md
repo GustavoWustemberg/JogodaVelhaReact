@@ -4,7 +4,7 @@
 <hr>
 <h2>Para jogar é muito fácil!</h2>
 <p>basta acessar o link abaixo:</p>
-<a href="https://deuvelha.netlify.app/" title="Link para o jogo"><b>Jogar Agora<b></a>
+<a href="https://deuvelha.netlify.app/" target="_blak" title="Link para o jogo"><b>Jogar Agora<b></a>
 <hr>
 <br>
 <p>Projeto elaborado com o uso da biblioteca React js.</p>
